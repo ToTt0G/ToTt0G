@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/luka-koehler-4a57442a5/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:luka@redsunsetfarm.com">
+    <a href="mailto:rainryder4@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -97,11 +97,29 @@
 
 ---
 
-<!-- GITHUB STATS - FIXED FOR USER: ToTt0G -->
+<!-- GITHUB STATS -->
 <h2 align="center">📊 The Data</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToTt0G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="stats graph" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/ToTt0G">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToTt0G&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ToTt0G">
+    <img src="https://github-profile-trophy.vercel.app/?username=ToTt0G&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToTt0G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="languages graph" />
 </div>
 
