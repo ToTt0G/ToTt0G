@@ -1,6 +1,6 @@
 <!-- HEADER & TITLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Luka%20Koehler&fontSize=80&fontColor=22d3ee&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Luka Koehler Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Luka%20Koehler&fontSize=80&fontColor=22d3ee&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect&descAlignY=55&descAlign=50" alt="Luka Koehler Header" width="100%" />
 
   <!-- TYPING EFFECT SUBTITLE -->
   <h1>
@@ -29,8 +29,8 @@
 <h2 align="center">⚡ Engineering from the Hardware Up</h2>
 
 <p align="center">
-  I don't just write code; <b>I engineer solutions.</b><br>
-  My superpower is the ability to absorb complex technical domains instantly—from designing PCBs and fabricating 64V battery packs to architecting secure, self-hosted Docker infrastructures.
+  I don't just write code; <b>I engineer resilient systems.</b><br>
+  My superpower is the ability to absorb complex technical domains instantly—from designing PCBs and fabricating 64V battery packs to architecting secure, self-hosted Docker infrastructures. I bridge the gap between <b>physical hardware</b> and <b>scalable cloud software</b>.
 </p>
 
 <div align="center">
@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
     <td align="center" width="25%"><b>Core Stack</b></td>
-    <td align="center" width="25%"><b>Cloud & Infra</b></td>
+    <td align="center" width="25%"><b>DevOps & Security</b></td>
     <td align="center" width="25%"><b>Hardware & Eng</b></td>
   </tr>
   <tr>
@@ -58,20 +58,20 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=github-actions&logoColor=white" />
     </td>
     <td align="center">
@@ -79,10 +79,24 @@
       <img src="https://img.shields.io/badge/Fusion_360-F57F26?style=flat-square&logo=autodesk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/RAG_AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/IoT_Systems-5C2D91?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
 </table>
+
+---
+
+<!-- WORKFLOW & METHODOLOGY (Recruiters LOVE this) -->
+<h2 align="center">🧠 Workflow & Architecture</h2>
+
+<p align="center">
+  <b>How I build matters as much as what I build.</b><br>
+  I focus on scalability, maintainability, and security from day one.
+</p>
+
+| **🧪 Testing & Quality** | **🔄 Agile & DevOps** | **🛡️ Security First** |
+|:---|:---|:---|
+| • **Jest / PyTest** for Unit Testing<br>• **Playwright** for E2E Testing<br>• Strictly Typed **TypeScript** Codebases | • **Dockerized** Environments<br>• **CI/CD** Pipelines (GitHub Actions)<br>• **Git Flow** & Pull Request Reviews | • **OWASP** Top 10 Mitigation<br>• **JWT** & Session Management<br>• **Linux** Hardening & Self-Hosting |
 
 ---
 
