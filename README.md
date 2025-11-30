@@ -86,7 +86,7 @@
 
 ---
 
-<!-- WORKFLOW & METHODOLOGY (Recruiters LOVE this) -->
+<!-- WORKFLOW & METHODOLOGY -->
 <h2 align="center">🧠 Workflow & Architecture</h2>
 
 <p align="center">
@@ -103,11 +103,11 @@
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🔥 Featured Projects</h2>
 
-| **⚠️ Swedish Digital ID Clone** | **🏍️ 64V Electric Moped** | **🔒 Secure Full-Stack Architecture** |
+| **⚠️ Swedish Digital ID Clone** | **🏍️ 64V Electric Moped** | **🔒 [Secure Architecture](https://github.com/ToTt0G/PHP-MySQL-Task-List-with-Auth)** |
 |:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Status-Govt%20Takedown-red" /> | <img src="https://img.shields.io/badge/Speed-80%2B%20km%2Fh-orange" /> | <img src="https://img.shields.io/badge/Focus-Security-green" /> |
-| Pixel-perfect clone of Sweden's national auth system. Replicated iOS/Android animations so well the **Government intervened** and ordered a privatization. | Custom **PCB design**, signal processing, and high-voltage Li-Ion battery packs. 3D printed chassis mods in Fusion 360. | Secure PHP/MySQL web app hosted on **custom Docker infrastructure**. Defenses against SQLi & XSS with strict MVC patterns. |
-| `React` `Framer Motion` `Sec-Research` | `C++` `Fusion 360` `Electronics` | `PHP` `Docker` `Cybersecurity` |
+| Pixel-perfect clone of Sweden's national auth system. Replicated iOS/Android animations so well the **Government intervened** and ordered a privatization. | Custom **PCB design**, signal processing, and high-voltage Li-Ion battery packs. 3D printed chassis mods in Fusion 360. | Secure PHP/MySQL web app hosted on **custom Docker infrastructure**. Defenses against SQLi & XSS.<br><br>👉 **[Live Demo](https://tasks.redsunsetfarm.com/)** |
+| `React` `Framer Motion` `Sec-Research` | `C++` `Fusion 360` `Electronics` | `PHP` `Docker` `MVC Pattern` |
 
 ---
 
