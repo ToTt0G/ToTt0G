@@ -101,8 +101,8 @@
 <h2 align="center">📊 The Data</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_REAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_REAL_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToTt0G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToTt0G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="180" alt="languages graph" />
 </div>
 
 <br />
